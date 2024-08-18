@@ -1,4 +1,6 @@
 # Home-Lab
+![image](https://github.com/user-attachments/assets/1aad23fd-77c0-464f-b039-21c445efef4e)
+
 
 <h1>Part1: Installing pfsense firewall</h1>
 For this lab first installing pfsense in the VMware workstation pro. Go to the link
