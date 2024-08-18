@@ -1,11 +1,9 @@
 # Home-Lab
 
-Detection Lab
- 
-Figure 1 Network Diagram
 <h1>Part1: Installing pfsense firewall</h1>
 For this lab first installing pfsense in the VMware workstation pro. Go to the link
-    https://archive.org/details/pfSense-CE-2.6.0-RELEASE-amd64
+    
+     https://archive.org/details/pfSense-CE-2.6.0-RELEASE-amd64
 ![image](https://github.com/user-attachments/assets/4f5f7b48-1d62-4760-8f02-7dddd9887586)
 
  
