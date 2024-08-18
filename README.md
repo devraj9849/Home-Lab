@@ -607,8 +607,6 @@ After this run
     systemctl restart suricata.service
 
 
-
- 
 In Suricata logs are stored in /var/log/suricata/
  
 Running the command and making changes to inputs.conf file.
@@ -618,18 +616,20 @@ We are gonna make changes in the local.zeek file in order to making sure that th
  
  
 After that we run the command
-sudo /opt/zeek/bin/zeekctl deploy
+
+    sudo /opt/zeek/bin/zeekctl deploy
  
 Now zeek should start outputting its logs in json format. Now we have successfully configured our zeek and making changes for Suricata. Going to inputs.conf file again.
  
 After this 
-Sudo -u splunkfwd bash
-Cd /opt/splunkforwarder/bin
-./splunk stop
-./splunk start
+   
+    Sudo -u splunkfwd bash
+    Cd /opt/splunkforwarder/bin
+    ./splunk stop
+    ./splunk start
 Now when we head to the windows machine we should be able to see some logs of zeek.
  
-Part6: Configure PFSense
+<h1>Part6: Configure PFSense</h1>
 For pfsense, opening the pfsense in the windows 10 in browser.
  
 Default username and password for pfsense is admin and pfsense respectively.
