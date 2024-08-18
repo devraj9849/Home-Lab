@@ -348,4 +348,8 @@ Now perform everything we did into the windows 10 like installing Sysmon, Splunk
 
 ![image](https://github.com/user-attachments/assets/217af8ce-6c01-407f-a2f7-571e7b9904ee)
 
+
+For the remaining go to the URL
+
+    https://github.com/devraj9849/Part-2-Home-Labs.git
  
